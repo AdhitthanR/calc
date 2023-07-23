@@ -1,0 +1,30 @@
+.main
+{
+    background-image:linear-gradient(to right,rgb(229, 36, 232),rgb(45, 9, 225));
+    margin:10px;
+    height:740px;
+}
+.cal
+{
+    background-image:linear-gradient(to left,rgb(255, 0, 106),rgb(9, 225, 211));
+    width:500px;
+    height:300px;
+    transform:translateY(150px);
+    border-radius:25px;
+}
+input
+{
+    width:200px;
+}
+button
+{
+    width:30px;
+    height:30px;
+}
+.res
+{
+    margin-top:50px;
+    background-color: aliceblue;
+    width:150px;
+    height:20px;
+}
